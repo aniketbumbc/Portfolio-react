@@ -40,7 +40,7 @@ module.exports = {
   jobs: [
     /* more jobs here */
     {
-      company: 'Gympass',
+      company: 'Accion Labs',
       begin: {
         month: 'sep',
         year: '2019',
@@ -51,7 +51,7 @@ module.exports = {
         'I am part of the Corporate team, responsible for the development and maintenance of the employee management platform, giving more and more autonomy to partner companies.',
     },
     {
-      company: 'Lendico',
+      company: 'GEP',
       begin: {
         month: 'apr',
         year: '2018',
@@ -62,7 +62,7 @@ module.exports = {
         'I integrate the Frontend team responsible for developing and maintaining the online lending platform.',
     },
     {
-      company: 'Anapro',
+      company: 'DDC',
       begin: {
         month: 'dec',
         year: '2016',
